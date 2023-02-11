@@ -1,0 +1,29 @@
+/* Global */
+html, body {
+    height: 100%;
+    font-family: "Sawarabi Gothic";
+    background-color: pink;
+}
+
+a {
+    color: #fa98bf;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+/* Class */
+.content {
+    padding-top: 5px;
+    padding-left: 1rem;
+    max-width: 700px;
+    height: 100%;
+    margin: auto;
+    background-color: white;
+}
+
+.pink {
+    color: #fa98bf;
+}
