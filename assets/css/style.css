@@ -63,21 +63,27 @@ footer {
     background-color: white;
 }
 
-.pink {
-    color: #fa98bf;
-}
-
 .interesting>li {
     margin-bottom: 1rem;
     padding-bottom: 0.2rem;
-    border-bottom: dashed 2px #fa98bf;
+    border-bottom: dashed 2px gray;
 }
 
 .main {
-    min-width: 350px;
+    text-align: center;
+    min-width: 250px;
+}
+
+.main table {
+    margin: 0 auto;
+    text-align: left;
+}
+
+.main td {
+    padding-right: 1rem;
 }
 
 .sub {
-    min-width: 200px;
+    min-width: 230px;
     background-color: #EEF9FF;
 }
